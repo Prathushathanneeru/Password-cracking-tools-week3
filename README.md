@@ -18,8 +18,10 @@ The Password cracking tool and System administrators and cybersecurity professio
 
 ## Networkwalks Password Cracking Tool
 - Open Networkwalks Hash Calculator in your web browser: https://networkwalks.com/hash-calculator/
-- Upload the locked PDF file to the Hash Calculator. The tool will read the file and give you the hash value that starts with $pdf$...
-- Copy the hash value and paste in the Password Cracking dictionary created by the Networkwalks. In that dictionary the In-built list 100 passwords are present.
+- Upload the locked PDF file to the Hash Calculator. The tool will read the file and give you the hash value.
+- Copy the hash value and paste in the Password Cracking dictionary created by the Networkwalks.
+- Open the Networkwalks Password Cracker in your web browser: https://networkwalks.com/password-cracker/
+- In that dictionary the Built-In list (100 passwords) are present.
 - In the Networkwalks Password Cracker tool has a feature to upload our own list of passwords or by using tool we can generate 'N' number of password list.
 - Finally, the matched password is displayed and that password is used to unlock the pdf files.
 ## PDF Password Cracked using Networkwalks Password Cracker Tool
